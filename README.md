@@ -1,4 +1,4 @@
-📄 Policy Document Question Answering using RAG
+## 📄 Policy Document Question Answering using RAG
 
 This project implements a Retrieval-Augmented Generation (RAG) based question-answering assistant over company policy documents. The system retrieves relevant information from policy files and generates grounded, non-hallucinated answers using a large language model.
 
